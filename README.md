@@ -75,10 +75,10 @@ There are two possible ways to win:
 ## Screenshots
 
 1. Winning by opening all the safe cells
-<img src="">
+<img src="https://raw.githubusercontent.com/carlton-noronha/MinesweeperGame/master/Screenshots/openSafeCells.gif">
 
 2. Stepping on a mine results in a loss which then discloses all mine spots
-<img src="">
+<img src="https://raw.githubusercontent.com/carlton-noronha/MinesweeperGame/master/Screenshots/mineStep.gif">
 
 3. Playing using <b>mine</b> command
-<img src="">
+<img src="https://raw.githubusercontent.com/carlton-noronha/MinesweeperGame/master/Screenshots/playingByMine.jpg">
